@@ -80,6 +80,18 @@ Contributions are welcome! If you have ideas or suggestions, please create a pul
 
 ---
 
+
+-----
+👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+⭐ Support
+
+If you find this project helpful, don’t forget to star ⭐ the repository!
+
 ## 📬 Contact
 
 If you have questions or want to explore collaboration opportunities, feel free to reach out!
