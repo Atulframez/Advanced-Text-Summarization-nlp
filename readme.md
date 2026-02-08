@@ -1,5 +1,5 @@
 
-# 📝 Advanced Extractive Text Summarization Model
+# 📝 # Advanced-Text-Summarization-nlp
 
 Welcome to the **Advanced Extractive Text Summarization Model**! This project uses **Natural Language Processing (NLP)** techniques to automatically distill essential points from lengthy content, making it an invaluable tool for handling reports, research papers, news articles, and more.
 
@@ -96,4 +96,3 @@ If you find this project helpful, don’t forget to star ⭐ the repository!
 
 If you have questions or want to explore collaboration opportunities, feel free to reach out!
 
----# Advanced-Text-Summarization-nlp
